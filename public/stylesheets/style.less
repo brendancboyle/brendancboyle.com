@@ -1,8 +1,48 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.container-fluid {
+  height: 100vh;
 }
 
-a {
-  color: #00B7FF;
+#v1-container {
+  background: url("/images/v1-bars.svg"), url("/images/v1-dots.svg");
+  background-size: cover;
+  background-position-x: center;
+  padding-top: 100px;
+}
+
+.hero-title {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 100px;
+  z-index: 2;
+}
+
+.hero-subtitle {
+  font-family: 'Bungee', cursive;
+  font-size: 50px;
+  z-index: 2;
+}
+
+#v1-portrait-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+#v1-portrait {
+  margin: auto;
+  height: 60vh;
+  z-index: 1;
+}
+
+@media (max-width: 1100px) {
+  .hero-title {
+    font-size: 50px;
+  }
+
+  .hero-subtitle {
+    font-size: 25px;
+  }
+
+  #v1-container {
+    padding-top: 30px;
+  }
 }

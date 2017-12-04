@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1990 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_2);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-3 {
+        fill: rgba(255,0,61,0.8);
+      }
+
+      .cls-4 {
+        fill: rgba(0,255,25,0.8);
+      }
+
+      .cls-5 {
+        fill: rgba(255,255,0,0.8);
+      }
+
+      .cls-6 {
+        fill: rgba(0,136,255,0.8);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_2">
+      <rect x="1990" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" class="cls-1">
+    <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-2" cx="5.5" cy="5.5" r="5.5" transform="translate(2035 107)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(2651 1003)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-4" cx="5.5" cy="5.5" r="5.5" transform="translate(2365 612)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(2158 841)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3309 424)"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3393 707)"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(2398 403)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="5.5" cy="5.5" r="5.5" transform="translate(2354 76)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="5.5" cy="5.5" r="5.5" transform="translate(2719 403)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-5" cx="5.5" cy="5.5" r="5.5" transform="translate(3143 546)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-5" cx="5.5" cy="5.5" r="5.5" transform="translate(2588 718)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3755 188)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-6" cx="5.5" cy="5.5" r="5.5" transform="translate(3690 820)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-5" cx="5.5" cy="5.5" r="5.5" transform="translate(2205 987)"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(2740 43)"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3404 947)"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(2147 342)"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-4" cx="5.5" cy="5.5" r="5.5" transform="translate(2667 250)"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-4" cx="5.5" cy="5.5" r="5.5" transform="translate(3276 54)"/>
+    <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-6" cx="5.5" cy="5.5" r="5.5" transform="translate(3550 294)"/>
+    <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-6" cx="5.5" cy="5.5" r="5.5" transform="translate(2178 566)"/>
+    <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-4" cx="5.5" cy="5.5" r="5.5" transform="translate(2454 888)"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3818 1038)"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-2" cx="5.5" cy="5.5" r="5.5" transform="translate(3247 836)"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-5" cx="5.5" cy="5.5" r="5.5" transform="translate(3634 490)"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-4" cx="5.5" cy="5.5" r="5.5" transform="translate(3679 1028)"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(3713 65)"/>
+  </g>
+</svg>

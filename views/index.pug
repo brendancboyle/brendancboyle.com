@@ -1,5 +1,10 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+    div(class="container-fluid", id="v1-container")
+        div(class="row text-center")
+            h1(class="hero-title w-100")="Brendan Boyle"
+        div(class="row text-center")
+            h3(class="hero-subtitle w-100")="Design, Code, Secure"
+        div(class="row", id="v1-portrait-container")
+            img(src="/images/BrendanCOB.png", id="v1-portrait")

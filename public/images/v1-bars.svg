@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3980 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_3);
+      }
+
+      .cls-2 {
+        fill: rgba(255,255,0,0.8);
+      }
+
+      .cls-3 {
+        fill: rgba(0,255,25,0.8);
+      }
+
+      .cls-4 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-5 {
+        fill: rgba(0,136,255,0.8);
+      }
+
+      .cls-6 {
+        fill: rgba(255,0,61,0.8);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_3">
+      <rect x="3980" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" class="cls-1">
+    <g id="Group_1" data-name="Group 1" transform="translate(3980)">
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M0,541.541,526.339,175.49,538.9,284.5,0,660.88Z" transform="translate(1324 -291)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-3" d="M0,824.642,938.115,175.49,960.5,368.811,0,1036.277Z" transform="translate(698.339 -353.118) rotate(70)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-4" d="M0,947.792l1213.581-772.3,28.958,230L0,1199.577Z" transform="translate(565 137.593)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-5" d="M0,902,890.829,175.49l21.256,216.358L0,1138.851Z" transform="translate(1107.504 1192.178) rotate(-115)"/>
+      <path id="Path_1" data-name="Path 1" class="cls-6" d="M0,591.094l582.569-415.6,13.9,123.769L0,726.588Z" transform="translate(-52 336.582)"/>
+    </g>
+  </g>
+</svg>

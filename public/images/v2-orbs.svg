@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1990 2250 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Veiw2-Orbs);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-3 {
+        fill: rgba(0,255,25,0.8);
+      }
+
+      .cls-4 {
+        fill: rgba(0,136,255,0.8);
+      }
+
+      .cls-5 {
+        fill: rgba(255,0,61,0.8);
+      }
+
+      .cls-6 {
+        fill: rgba(255,255,0,0.8);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Veiw2-Orbs">
+      <rect x="1990" y="2250" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Veiw2-Orbs" class="cls-1">
+    <circle id="Ellipse_29" data-name="Ellipse 29" class="cls-2" cx="362.5" cy="362.5" r="362.5" transform="translate(3334 2291)"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" class="cls-3" cx="201.5" cy="201.5" r="201.5" transform="translate(2420 2582)"/>
+    <circle id="Ellipse_30" data-name="Ellipse 30" class="cls-4" cx="440.5" cy="440.5" r="440.5" transform="matrix(0.966, 0.259, -0.259, 0.966, 1971.733, 2549.001)"/>
+    <circle id="Ellipse_31" data-name="Ellipse 31" class="cls-5" cx="324.5" cy="324.5" r="324.5" transform="translate(2970 2772)"/>
+    <circle id="Ellipse_32" data-name="Ellipse 32" class="cls-5" cx="338" cy="338" r="338" transform="translate(1821 2030)"/>
+    <circle id="Ellipse_33" data-name="Ellipse 33" class="cls-6" cx="204.5" cy="204.5" r="204.5" transform="translate(3404 2815)"/>
+  </g>
+</svg>

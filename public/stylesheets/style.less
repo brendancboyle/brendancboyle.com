@@ -42,6 +42,8 @@ body {
   padding-bottom: 65px;
   background-size: cover !important;
   background-position-x: center !important;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #v1-container {
@@ -52,10 +54,14 @@ body {
 }
 
 #v2-container {
-  padding-left: 10%;
-  padding-right: 10%;
   background: @accent;
   color: @bg-dark;
+}
+
+#v3-container {
+  background: url("/images/v3-bg-carbon.png");
+  background-size: auto !important;
+  color: @accent;
 }
 
 .hero-title {
@@ -84,21 +90,42 @@ body {
   margin: 15px 0px;
 }
 
-.card-title {
+h1 {
   font-family: 'Bungee', cursive;
   font-size: 40px;
+}
+
+.card-title {
   text-align: center;
 }
 
-.card-body {
+p {
   font-family: 'Cutive', serif;
   font-size: 18px;
   padding-bottom: 5px;
 }
 
+.content-img-row .img-holder {
+  width: 200px;
+  object-fit: contain;
+  height: 200px;
+  border: 5px solid @bg-dark;
+  background: white;
+  border-radius: 100px;
+  padding: 17px;
+  text-align: center;
+  margin-left: auto;
+  overflow: hidden;
+}
+
+.content-img-row .img-holder img {
+  width: 125px;
+}
+
 #v2-wolftank {
-  width: 175px;
-  border-radius: 5px;
+  width: 155px;
+  position: relative;
+  top: 8px;
 }
 
 #v2-upr {
@@ -106,6 +133,13 @@ body {
   float: right;
   margin-top: 25px;
   margin-left: 10px;
+}
+
+#v2-web {
+  font-size: 35px;
+  position: relative;
+  top: 55px;
+  font-family: 'Bungee',cursive;
 }
 
 #v1-arrow {
@@ -144,5 +178,25 @@ body {
     float: none;
     margin-top: 0;
     margin-bottom: 5px;
+  }
+
+  #v1-arrow {
+    width: 200px;
+  }
+}
+
+@media (max-width: 991px) {
+  .nav-item {
+    width: 100%;
+    text-align: center;
+    background: @bg-light;
+    border-radius: 5px;
+    margin: 5px;
+    margin-top: 10px;
+  }
+
+  .img-holder {
+    margin: auto;
+    margin-bottom: 10px;
   }
 }

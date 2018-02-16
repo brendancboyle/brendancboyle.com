@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "pm2 start ./bin/www --name brendancboyle-website -i max",
+    "start": "pm2 start ./bin/www --name brendancboyle-website",
     "restart": "pm2 restart brendancboyle-website",
     "stop": "pm2 stop brendancboyle-website"
   },

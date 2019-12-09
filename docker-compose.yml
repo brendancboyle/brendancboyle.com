@@ -1,0 +1,16 @@
+version: '3'
+services:
+  php:
+    image: hub.dbztech.com/brendancboyle-website:1.0.0
+    ports:
+      - 8095:80
+    networks:
+      - dmz
+    environment:
+      - DEBUG=*
+    restart: always
+
+networks:
+  dmz:
+    external:
+      name: dbztech

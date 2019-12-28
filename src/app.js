@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var lessMiddleware = require('less-middleware');
 var compression = require('compression');
 
-var index = require('./routes/index');
+var index = require('./routes');
 var users = require('./routes/users');
 
 var app = express();

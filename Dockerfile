@@ -1,7 +1,17 @@
-FROM node:alpine
+FROM node:lts-alpine
 
-COPY ./ ./
+EXPOSE 80
 
-RUN yarn install
+#Setup ENV
+ENV NPM_CONFIG_LOGLEVEL warn
 
-CMD node ./bin/www
+# Bundle metadata files
+COPY package.json yarn.lock ./
+
+# Install app dependencies
+RUN yarn install --production
+
+#Copy app
+COPY src src/
+
+CMD [ "node", "src/bin/www" ]

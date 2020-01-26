@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "pm2 start src/bin/www --name brendancboyle-website",
-    "restart": "pm2 restart brendancboyle-website",
-    "stop": "pm2 stop brendancboyle-website"
+    "start": "node src/bin/www"
   },
   "dependencies": {
     "body-parser": "~1.19.0",
